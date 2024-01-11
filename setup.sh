@@ -1,3 +1,7 @@
+#!/bin/bash
+
+echo "Setting up..."
+
 apt-get update
 
 apt install ufw
